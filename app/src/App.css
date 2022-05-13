@@ -1,0 +1,18 @@
+html{
+    overflow-x: hidden;
+    }
+
+.App {
+    /* min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; */
+}
+
+.appSpinDiv{
+height: 100vh;
+    width: 100vw;
+    display: flex;
+        justify-content: center;
+        align-items: center;
+}

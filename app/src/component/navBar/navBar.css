@@ -1,0 +1,20 @@
+.navBarMainDiv{
+    max-height: 96px;
+}
+.navBarNav{
+    background-color: #171b1c;
+    margin: 0;
+}
+.navBarDiv{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.loginDivSecond{
+    display: flex;
+        justify-content: end;
+        align-items: center;
+}
